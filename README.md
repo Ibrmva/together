@@ -1,1 +1,2 @@
 The platform is for anyone who wants to get jobs in big tech companies or universities; it includes all resources to prepare for coding life and interviews and also includes a dashboard where the user can write any notes or backlogs and also chat with anyone. The main idea is to help each other get up and start to build their own career and education. Every user has his own profile where he can fill out a form about his professional skills and hobbies. It's just a big community where everyone can be friends or partners.
+---
